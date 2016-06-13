@@ -1,8 +1,8 @@
 ##  Econometric Society Workshop on Python and Julia
 
-Repository for the QuantEcon workshop at the 2016 North American Summer Meeting of the Econometric Society.
+A repository for the [QuantEcon workshop](http://quantecon.org/econometric_society_workshop.html) at the 2016 [North American Summer Meeting](http://sites.sas.upenn.edu/nasm-2016/) of the
+Econometric Society.
 
-Links
+To access the files in this repositiory, either [use git](https://git-scm.com) or, if you aren't familiary with git, click on "Download ZIP"
 
-* http://sites.sas.upenn.edu/nasm-2016/
-* http://quantecon.org/econometric_society_workshop.html
+
